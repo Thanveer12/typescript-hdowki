@@ -1,0 +1,9 @@
+{
+  "name": "typescript",
+  "version": "0.0.0",
+  "private": true,
+  "dependencies": {
+    "@syncfusion/ej2-base": "^18.1.56",
+    "@syncfusion/ej2-popups": "^18.1.56"
+  }
+}
